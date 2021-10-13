@@ -49,6 +49,12 @@ http://c2n.me/4dDM8PA
 
 Создать ВМ
 
-https://c2n.me/4dDNaTn
+![ВМ](https://github.com/olegrovenskiy/HW-Terraform/blob/main/%D0%B2%D0%BC.png)
 
-https://clip2net.com/s/4dDOJSU
+Консоль от ВМ
+
+![консоль](https://github.com/olegrovenskiy/HW-Terraform/blob/main/%D0%B2%D0%BC-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D0%BB%D1%8C.png)
+
+##  Задача 2
+
+
